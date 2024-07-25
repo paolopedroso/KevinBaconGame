@@ -1,4 +1,4 @@
-# Six Degrees of Kevin Bacon Game: It’s a Small World After All
+# Six Degrees of Kevin Bacon Game
 
 ## Overview
 This assignment involves creating a C/C++ program to solve the "Six Degrees of Kevin Bacon" game by parsing movie credit data into a graph and performing shortest path computations to connect actors through their co-acted movies. The program must efficiently handle over 100,000 movies and a similar number of actors to find the shortest connection paths.
