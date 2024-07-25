@@ -48,6 +48,4 @@ This assignment involves creating a C/C++ program to solve the "Six Degrees of K
 
 ## Additional Information
 - **Source Data:** The raw data is sourced from [IMDB datasets](https://datasets.imdbws.com/) and [IMDB interfaces](https://www.imdb.com/interfaces/).
-- **Preprocessing:** The dataset has been trimmed to include non-adult titles and US releases to fit within the memory constraints of the Codio environment.
-
 This project is a great opportunity to apply your knowledge in graph theory and algorithms, particularly BFS, to a fun and engaging problem!
