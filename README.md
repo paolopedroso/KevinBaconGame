@@ -9,7 +9,7 @@ This assignment involves creating a C/C++ program to solve the "Six Degrees of K
 - **Program Input/Output:** For each pair of actors in the input file, the program must output the shortest path between them or indicate if no path exists.
 - **Requirements:** Provide a Makefile and executable (`sixdegrees`), Use only C/C++ for all implementations.
 - **Data Structures:** Use graph representations, such as adjacency lists, and implement BFS for pathfinding.
-- **Testing:** Includes predefined test cases (`simple-input.txt`, `more-input.txt`).
+- **Testing:** Includes predefined test cases (`more-input.txt`).
 
 ## How to Run
 
