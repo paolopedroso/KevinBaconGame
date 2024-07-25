@@ -7,9 +7,9 @@ This assignment involves creating a C/C++ program to solve the "Six Degrees of K
 - **Objective:** Design a program that finds the shortest path between two given actors based on their movie collaborations.
 - **Data Input:** The dataset (`cleaned_movielist.txt`) contains movie and actor data. Each line lists a movie followed by its actors.
 - **Program Input/Output:** For each pair of actors in the input file, the program must output the shortest path between them or indicate if no path exists.
-- **Requirements:** Provide a Makefile, executable (`sixdegrees`), and README with usage instructions. Use only C/C++ for all implementations.
+- **Requirements:** Provide a Makefile and executable (`sixdegrees`), Use only C/C++ for all implementations.
 - **Data Structures:** Use graph representations, such as adjacency lists, and implement BFS for pathfinding.
-- **Testing:** Includes predefined test cases (`simple-input.txt`, `more-input.txt`) and additional test inputs provided during grading.
+- **Testing:** Includes predefined test cases (`simple-input.txt`, `more-input.txt`).
 
 ## How to Run
 
